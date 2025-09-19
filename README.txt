@@ -1,7 +1,3 @@
-Sure! Here's a revised version of the README file that focuses on the marketing aspects of your BMW sales data analysis project:
-
----
-
 # BMW Sales Data Analysis for Marketing Insights
 
 ## Overview
@@ -47,4 +43,5 @@ The analysis includes a variety of visualizations to effectively communicate mar
 
 ## Technologies Used
 - SQL (Query)
+
 - POWER BI (Visualization)
